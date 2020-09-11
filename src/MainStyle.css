@@ -1,0 +1,17 @@
+.avtarstyle img{
+
+    width:200px;height:200px;
+    
+    
+    }
+
+   body{
+    background-color: #A7A0CD;
+   }
+    
+    
+    .mainpage { width:70%; margin:auto; font-family: 'Gugi', cursive; justify-items: center;  }
+    .mainpage h1 {margin:0; padding:20px 0; text-align:center; }
+    .mainpagetable {  min-width: 650px; margin:auto; font-family: 'Gugi', cursive;  justify-items: center; border:1px solid black; }
+     
+    
